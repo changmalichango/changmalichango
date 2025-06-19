@@ -46,8 +46,8 @@ export default function ListingsScreen() {
             source={require("../../assets/images/logo.png")}
             style={styles.logo}
           />
-        </View>  
           <Text style={styles.logoText}>CanIRent</Text>
+        </View>  
         
 
         {/* ///////////////////////////////////// */}
